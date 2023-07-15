@@ -6,7 +6,7 @@ spec:
   - github:
       branch: master
       deploy_on_push: true
-      repo: digitalocean/sample-functions-golang-helloworld
+      repo: marotithomas/sample-functions-golang-helloworld
     name: go-api
     routes:
     - path: /
